@@ -25,7 +25,7 @@ _ = '''
 
 '''
 
-limit = 100			# How many mahrem to get
+limit = 100		# How many mahrem to get
 images = True 		# Get with images
 unique_name = True	# Create new file on every session
 mode = 'Lightshot'	# Lightshot or Youtube
